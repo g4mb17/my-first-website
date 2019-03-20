@@ -1,0 +1,57 @@
+body {
+	Margin: 0;
+	padding: 0;
+	font-family: 'Oswald', 'sans-serif'
+	
+}
+
+nav ul{
+	list-style: none;
+	background-color: #4a4a4f;
+	Text-align: center;
+	margin: 0;
+	Padding: 0;
+}
+
+nav li{
+	font-size: 1.2em;
+	line-height: 40px;
+	height: 40px;
+	display: inline-block; 
+	MArgin-left: 2.5%;
+}
+
+nav a{
+	Text-decoration: None;
+	Color: #ffffff;
+	display: block;
+}
+
+nav a:hover{
+	Background-color:#ffffff;
+	color: #4a4a4f;
+}
+
+.Card{
+	Float: left;
+	width: 20%;
+	margin-left: 10%
+}
+
+.card a{
+	Text-align: center;
+}
+
+img{
+	Width: 100%;
+}
+
+h1 { 
+	Text-align: Center;
+}
+
+
+h2 { 
+	Text-align: Center;
+	text-decoration: none;
+}
